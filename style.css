@@ -1,0 +1,29 @@
+/* ==========================================================================
+   Vanilla Table Styles
+========================================================================== */
+body {
+	font: 1em Helvetica, Arial, sans-serif;
+	margin: 1em auto 0;
+	width: 75%;
+}
+
+table {
+	border: 1px solid #ccc;
+    border-collapse: collapse;
+    font-size: 0.75em;
+    width: 100%;
+}
+
+th {
+	background: #000;
+	border: 1px solid #ccc;
+	color: #fff;
+	padding: 1em;
+	text-align: left;
+}
+
+td {
+	border: 1px solid #ccc;
+	padding: 1em;
+	text-align: left;
+}
